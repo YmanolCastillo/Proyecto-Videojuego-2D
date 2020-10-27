@@ -1,0 +1,219 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Glolbo.prefab
+    - Assets/Glolbo.prefab.meta
+    - Assets/Joystick Pack.meta
+    - Assets/Joystick Pack/Documentaion.pdf
+    - Assets/Joystick Pack/Documentaion.pdf.meta
+    - Assets/Joystick Pack/Examples.meta
+    - Assets/Joystick Pack/Examples/Example Scene.unity
+    - Assets/Joystick Pack/Examples/Example Scene.unity.meta
+    - Assets/Joystick Pack/Examples/Ground.mat
+    - Assets/Joystick Pack/Examples/Ground.mat.meta
+    - Assets/Joystick Pack/Examples/JoystickPlayerExample.cs
+    - Assets/Joystick Pack/Examples/JoystickPlayerExample.cs.meta
+    - Assets/Joystick Pack/Examples/JoystickSetterExample.cs
+    - Assets/Joystick Pack/Examples/JoystickSetterExample.cs.meta
+    - Assets/Joystick Pack/Examples/Player.mat
+    - Assets/Joystick Pack/Examples/Player.mat.meta
+    - Assets/Joystick Pack/Prefabs.meta
+    - Assets/Joystick Pack/Prefabs/Dynamic Joystick.prefab
+    - Assets/Joystick Pack/Prefabs/Dynamic Joystick.prefab.meta
+    - Assets/Joystick Pack/Prefabs/Fixed Joystick.prefab
+    - Assets/Joystick Pack/Prefabs/Fixed Joystick.prefab.meta
+    - Assets/Joystick Pack/Prefabs/Floating Joystick.prefab
+    - Assets/Joystick Pack/Prefabs/Floating Joystick.prefab.meta
+    - Assets/Joystick Pack/Prefabs/Variable Joystick.prefab
+    - Assets/Joystick Pack/Prefabs/Variable Joystick.prefab.meta
+    - Assets/Joystick Pack/Scripts.meta
+    - Assets/Joystick Pack/Scripts/Base.meta
+    - Assets/Joystick Pack/Scripts/Base/Joystick.cs
+    - Assets/Joystick Pack/Scripts/Base/Joystick.cs.meta
+    - Assets/Joystick Pack/Scripts/Editor.meta
+    - Assets/Joystick Pack/Scripts/Editor/DynamicJoystickEditor.cs
+    - Assets/Joystick Pack/Scripts/Editor/DynamicJoystickEditor.cs.meta
+    - Assets/Joystick Pack/Scripts/Editor/FloatingJoystickEditor.cs
+    - Assets/Joystick Pack/Scripts/Editor/FloatingJoystickEditor.cs.meta
+    - Assets/Joystick Pack/Scripts/Editor/JoystickEditor.cs
+    - Assets/Joystick Pack/Scripts/Editor/JoystickEditor.cs.meta
+    - Assets/Joystick Pack/Scripts/Editor/VariableJoystickEditor.cs
+    - Assets/Joystick Pack/Scripts/Editor/VariableJoystickEditor.cs.meta
+    - Assets/Joystick Pack/Scripts/Joysticks.meta
+    - Assets/Joystick Pack/Scripts/Joysticks/DynamicJoystick.cs
+    - Assets/Joystick Pack/Scripts/Joysticks/DynamicJoystick.cs.meta
+    - Assets/Joystick Pack/Scripts/Joysticks/FixedJoystick.cs
+    - Assets/Joystick Pack/Scripts/Joysticks/FixedJoystick.cs.meta
+    - Assets/Joystick Pack/Scripts/Joysticks/FloatingJoystick.cs
+    - Assets/Joystick Pack/Scripts/Joysticks/FloatingJoystick.cs.meta
+    - Assets/Joystick Pack/Scripts/Joysticks/VariableJoystick.cs
+    - Assets/Joystick Pack/Scripts/Joysticks/VariableJoystick.cs.meta
+    - Assets/Joystick Pack/Sprites.meta
+    - Assets/Joystick Pack/Sprites/All Axis Backgrounds.meta
+    - Assets/Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Outline.png
+    - Assets/Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Outline.png.meta
+    - Assets/Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Outline_Arrows.png
+    - Assets/Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Outline_Arrows.png.meta
+    - Assets/Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Plain.png
+    - Assets/Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Plain.png.meta
+    - Assets/Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Plain_Arrows.png
+    - Assets/Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Plain_Arrows.png.meta
+    - Assets/Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Ridged.png
+    - Assets/Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Ridged.png.meta
+    - Assets/Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Ridged_Arrows.png
+    - Assets/Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Ridged_Arrows.png.meta
+    - Assets/Joystick Pack/Sprites/Handles.meta
+    - Assets/Joystick Pack/Sprites/Handles/Handle_Outline.png
+    - Assets/Joystick Pack/Sprites/Handles/Handle_Outline.png.meta
+    - Assets/Joystick Pack/Sprites/Handles/Handle_Outline_Arrows.png
+    - Assets/Joystick Pack/Sprites/Handles/Handle_Outline_Arrows.png.meta
+    - Assets/Joystick Pack/Sprites/Handles/Handle_Plain.png
+    - Assets/Joystick Pack/Sprites/Handles/Handle_Plain.png.meta
+    - Assets/Joystick Pack/Sprites/Handles/Handle_Plain_Arrows.png
+    - Assets/Joystick Pack/Sprites/Handles/Handle_Plain_Arrows.png.meta
+    - Assets/Joystick Pack/Sprites/Handles/Handle_Ridged.png
+    - Assets/Joystick Pack/Sprites/Handles/Handle_Ridged.png.meta
+    - Assets/Joystick Pack/Sprites/Handles/Handle_Ridged_Arrows.png
+    - Assets/Joystick Pack/Sprites/Handles/Handle_Ridged_Arrows.png.meta
+    - Assets/Joystick Pack/Sprites/Horizontal Backgrounds.meta
+    - Assets/Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Outline.png
+    - Assets/Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Outline.png.meta
+    - Assets/Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Outline_Arrows.png
+    - Assets/Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Outline_Arrows.png.meta
+    - Assets/Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Plain.png
+    - Assets/Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Plain.png.meta
+    - Assets/Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Plain_Arrows.png
+    - Assets/Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Plain_Arrows.png.meta
+    - Assets/Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Ridged.png
+    - Assets/Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Ridged.png.meta
+    - Assets/Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Ridged_Arrows.png
+    - Assets/Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Ridged_Arrows.png.meta
+    - Assets/Joystick Pack/Sprites/Vertical Backgrounds.meta
+    - Assets/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Outline.png
+    - Assets/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Outline.png.meta
+    - Assets/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Outline_Arrows.png
+    - Assets/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Outline_Arrows.png.meta
+    - Assets/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Plain.png
+    - Assets/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Plain.png.meta
+    - Assets/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Plain_Arrows.png
+    - Assets/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Plain_Arrows.png.meta
+    - Assets/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Ridged.png
+    - Assets/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Ridged.png.meta
+    - Assets/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Ridged_Arrows.png
+    - Assets/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Ridged_Arrows.png.meta
+    - Assets/Prefabs.meta
+    - Assets/Prefabs/Bala.prefab
+    - Assets/Prefabs/Bala.prefab.meta
+    - Assets/Prefabs/Nivel2Screen.prefab
+    - Assets/Prefabs/Nivel2Screen.prefab.meta
+    - Assets/Prefabs/globo azul.prefab
+    - Assets/Prefabs/globo azul.prefab.meta
+    - Assets/Prefabs/globo naranja.prefab
+    - Assets/Prefabs/globo naranja.prefab.meta
+    - Assets/Prefabs/globo rojo.prefab
+    - Assets/Prefabs/globo rojo.prefab.meta
+    - Assets/Scenes/Game.unity
+    - Assets/Scenes/GameLevel2.unity
+    - Assets/Scenes/GameLevel2.unity.meta
+    - Assets/Scenes/HowToPlay.unity
+    - Assets/Scenes/HowToPlaySettings.lighting
+    - Assets/Scenes/HowToPlaySettings.lighting.meta
+    - Assets/Scenes/Menu.unity
+    - Assets/Scenes/MenuSettings.lighting
+    - Assets/Scenes/MenuSettings.lighting.meta
+    - Assets/Scripts.meta
+    - Assets/Scripts/Globo.cs
+    - Assets/Scripts/Globo.cs.meta
+    - Assets/Scripts/Move.cs
+    - Assets/Scripts/Move.cs.meta
+    - Assets/Scripts/SceneController.cs
+    - Assets/Scripts/SceneController.cs.meta
+    - Assets/Scripts/Score.cs
+    - Assets/Scripts/Score.cs.meta
+    - Assets/Scripts/bala.cs
+    - Assets/Scripts/bala.cs.meta
+    - Assets/Scripts/intanciador.cs
+    - Assets/Scripts/intanciador.cs.meta
+    - Assets/Sprites.meta
+    - Assets/Sprites/589-5896772_alien-sprite-hd-png-download 1.png
+    - Assets/Sprites/589-5896772_alien-sprite-hd-png-download 1.png.meta
+    - Assets/Sprites/Image.controller
+    - Assets/Sprites/Image.controller.meta
+    - Assets/Sprites/Png.png
+    - Assets/Sprites/Png.png.meta
+    - Assets/Sprites/ayudar.png
+    - Assets/Sprites/ayudar.png.meta
+    - Assets/Sprites/boton-de-pausa.png
+    - Assets/Sprites/boton-de-pausa.png.meta
+    - Assets/Sprites/boton-de-play.png
+    - Assets/Sprites/boton-de-play.png.meta
+    - Assets/Sprites/download.png
+    - Assets/Sprites/download.png.meta
+    - Assets/Sprites/ezgif.com-gif-maker.png
+    - Assets/Sprites/ezgif.com-gif-maker.png.meta
+    - Assets/Sprites/flecha-arriba.png
+    - Assets/Sprites/flecha-arriba.png.meta
+    - Assets/Sprites/game1.PNG
+    - Assets/Sprites/game1.PNG.meta
+    - Assets/Sprites/game2.PNG
+    - Assets/Sprites/game2.PNG.meta
+    - Assets/Sprites/game3.PNG
+    - Assets/Sprites/game3.PNG.meta
+    - Assets/Sprites/globo azul.anim
+    - Assets/Sprites/globo azul.anim.meta
+    - Assets/Sprites/globo azul.controller
+    - Assets/Sprites/globo azul.controller.meta
+    - Assets/Sprites/globo naranja.anim
+    - Assets/Sprites/globo naranja.anim.meta
+    - Assets/Sprites/globo rojo.anim
+    - Assets/Sprites/globo rojo.anim.meta
+    - Assets/Sprites/globo rojo.controller
+    - Assets/Sprites/globo rojo.controller.meta
+    - Assets/Sprites/go-back-arrow.png
+    - Assets/Sprites/go-back-arrow.png.meta
+    - Assets/Sprites/image (1).png
+    - Assets/Sprites/image (1).png.meta
+    - Assets/Sprites/image (2).png
+    - Assets/Sprites/image (2).png.meta
+    - Assets/Sprites/image (3).png
+    - Assets/Sprites/image (3).png.meta
+    - Assets/Sprites/image.png
+    - Assets/Sprites/image.png.meta
+    - Assets/Sprites/mudo.png
+    - Assets/Sprites/mudo.png.meta
+    - Assets/Sprites/powder-blue.gif
+    - Assets/Sprites/powder-blue.gif.meta
+    - Assets/Sprites/simbolo-de-audio-de-interfaz-de-altavoz.png
+    - Assets/Sprites/simbolo-de-audio-de-interfaz-de-altavoz.png.meta
+    - Assets/prefabs/Bala.prefab
+    - Assets/prefabs/Bala.prefab.meta
+    - Packages/manifest.json
+    - Packages/packages-lock.json
+    - ProjectSettings/EditorBuildSettings.asset
+    - ProjectSettings/GraphicsSettings.asset
+    - ProjectSettings/InputManager.asset
+    - ProjectSettings/ProjectSettings.asset
+    - ProjectSettings/ProjectVersion.txt
+    - ProjectSettings/TagManager.asset
+    - ProjectSettings/UnityConnectSettings.asset
+    - ProjectSettings/VersionControlSettings.asset
+    - 
+    m_Values: 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
+  RevisionSummary: Game Complete!
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
